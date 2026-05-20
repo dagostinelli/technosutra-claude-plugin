@@ -1,0 +1,15 @@
+{
+  "name": "technosutra-claude-plugin",
+  "owner": {
+    "name": "Darryl T. Agostinelli",
+    "email": "dagostinelli@gmail.com"
+  },
+  "description": "The cast of voices from technosutra.com — Marcus, Sophia, Kamal, Ethan, Wei, The Master, and the letter-writers — as Claude Code subagents.",
+  "plugins": [
+    {
+      "name": "technosutra",
+      "source": "./",
+      "description": "The cast of voices from technosutra.com — Marcus, Sophia, Kamal, Ethan, Wei, The Master, and the letter-writers — as Claude Code subagents."
+    }
+  ]
+}
